@@ -1,0 +1,13 @@
+C:\Max\code\c#\qrScan\qrScan\bin\Debug\qrScan.exe.config
+C:\Max\code\c#\qrScan\qrScan\bin\Debug\qrScan.exe
+C:\Max\code\c#\qrScan\qrScan\bin\Debug\qrScan.pdb
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.csprojResolveAssemblyReference.cache
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.fCode.resources
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.Properties.Resources.resources
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.csproj.GenerateResource.Cache
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.exe
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.pdb
+C:\Max\code\c#\qrScan\qrScan\bin\Debug\qrScan.exe.manifest
+C:\Max\code\c#\qrScan\qrScan\bin\Debug\qrScan.application
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.exe.manifest
+C:\Max\code\c#\qrScan\qrScan\obj\Debug\qrScan.application
