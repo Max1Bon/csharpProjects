@@ -1,0 +1,41 @@
+C:\Max\code\c#\Melody\Melody\bin\Debug\Melody.exe.config
+C:\Max\code\c#\Melody\Melody\bin\Debug\Melody.exe
+C:\Max\code\c#\Melody\Melody\bin\Debug\Melody.pdb
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.csprojResolveAssemblyReference.cache
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.Properties.Resources.resources
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.csproj.GenerateResource.Cache
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.exe
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.pdb
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.fParam.resources
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.fMenu.resources
+C:\Max\code\c#\Melody\Melody\bin\Debug\Interop.WMPLib.dll
+C:\Max\code\c#\Melody\Melody\bin\Debug\AxInterop.WMPLib.dll
+C:\Max\code\c#\Melody\Melody\obj\Debug\Interop.WMPLib.dll
+C:\Max\code\c#\Melody\Melody\obj\Debug\AxInterop.WMPLib.dll
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.csproj.ResolveComReference.cache
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.fGame.resources
+C:\Max\code\c#\Melody\Melody\obj\Debug\Melody.fMessage.resources
+C:\Max\code\c#\Melody\Melody\bin\Debug\res\stop.wav
+C:\Max\code\c#\Melody\Melody\bin\Debug\res\dos.wav
+C:\Max\code\c#\Melody\Melody\bin\Debug\res\uno.wav
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\res\dos.wav
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\res\stop.wav
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\res\uno.wav
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\Melody.exe.config
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\Melody.exe
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\Melody.pdb
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\Interop.WMPLib.dll
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\bin\Debug\AxInterop.WMPLib.dll
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.csproj.AssemblyReference.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Interop.WMPLib.dll
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\AxInterop.WMPLib.dll
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.csproj.ResolveComReference.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.fGame.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.fMessage.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.fMenu.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.fParam.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.Properties.Resources.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.csproj.GenerateResource.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.csproj.CoreCompileInputs.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.exe
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Melody\Melody\obj\Debug\Melody.pdb
