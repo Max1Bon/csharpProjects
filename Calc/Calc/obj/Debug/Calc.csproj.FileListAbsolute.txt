@@ -1,0 +1,18 @@
+C:\Max\code\c#\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Max\code\c#\Calc\Calc\bin\Debug\Calc.exe
+C:\Max\code\c#\Calc\Calc\bin\Debug\Calc.pdb
+C:\Max\code\c#\Calc\Calc\obj\Debug\Calc.fCalc.resources
+C:\Max\code\c#\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Max\code\c#\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Max\code\c#\Calc\Calc\obj\Debug\Calc.exe
+C:\Max\code\c#\Calc\Calc\obj\Debug\Calc.pdb
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\bin\Debug\Calc.exe.config
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\bin\Debug\Calc.exe
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\bin\Debug\Calc.pdb
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.fCalc.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.exe
+H:\Общее\Разгребаем USB\С компа\Msc\My projects\code\c#\Calc\Calc\obj\Debug\Calc.pdb
